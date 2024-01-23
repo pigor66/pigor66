@@ -36,8 +36,6 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-    -->
-  
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
@@ -52,5 +50,5 @@ Here are some ideas to get you started:
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/pigor66/pigor66/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pigor66/pigor66/blob/output/github-contribution-grid-snake.svg)
+-->
