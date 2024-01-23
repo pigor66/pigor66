@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Faaaala dev, Luigi Aqui!
+## Faaaala dev, Higor Ribeiro Aqui!
 
 <div>
   
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pigor66&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-
+<!--
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-    
+    -->
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
